@@ -31,7 +31,7 @@ function updateTimer() {
   const currentTime = luxon.DateTime.now();
   const elapsedTime = currentTime.diff(startDate, ['years', 'months', 'days', 'hours', 'minutes', 'seconds']).toObject();
 
-  const secondsRounded = (elapsedTime.seconds || 0).toFixed(0); // Round to two decimal places
+  const secondsRounded = (elapsedTime.seconds || 0).toFixed(0); 
 
   const timerDisplay = document.getElementById("timerDisplay");
   timerDisplay.innerHTML = `Tempo desde o dia mais feliz da minha vida: ${elapsedTime.years || 0} ano(s), ${elapsedTime.months || 0} mês(meses), ${elapsedTime.days || 0} dia(s), ${elapsedTime.hours || 0} hora(s), ${elapsedTime.minutes || 0} minuto(s), e ${secondsRounded || 0} segundo(s)`;
