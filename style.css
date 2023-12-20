@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('assets/banner\ amor\ escuro.png');
+    background-size: contain; 
+    background-position: center; 
+}
+
+.p-principal {
+    font-weight: bold;
+    font-size: large;
+    padding-top: 10px;
+}
+
+p {
+    color: white;
+}
