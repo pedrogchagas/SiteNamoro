@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://namoroluisaepedro.com">Clique aqui para acessar o Site</a>
+  <a href="https://pedrogchagas.github.io/SiteNamoro/">Clique aqui para acessar o Site</a>
 </div>
 <br>
 
