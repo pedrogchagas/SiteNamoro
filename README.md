@@ -5,12 +5,12 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://alinecarvalhonutri.com">Clique aqui para acessar o Site</a>
+  <a href="https://namoroluisaepedro.com">Clique aqui para acessar o Site</a>
 </div>
 <br>
 
 # 👷🏻 O Projeto
-Esse é um projeto desenvolvido por mim. O projeto é um site fofo que criei para minha namorada, onde ela consegue visualizar quanto tempo temos de namoro.
+Esse é um projeto desenvolvido por mim. O projeto é um site fofo que criei para minha namorada, onde ela consegue visualizar quanto tempo temos de namoro. Utilizei o Luxon para realizar o cálculo da data.
 
 # 🚀 Tecnologias
 Estas são as tecnologias utilizadas no desenvolvimento do projeto:
